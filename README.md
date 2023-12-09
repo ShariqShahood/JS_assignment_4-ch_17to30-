@@ -1,2 +1,2 @@
-# TAsk_01_js(shariq_shahood)
-https://shariqshahood-task-01-js.netlify.app/
+# TAsk_02_Pallindrome_js(shariq_shahood)
+https://jade-dolphin-50a35e.netlify.app/
